@@ -10,7 +10,7 @@ Windows:
 py -m pip install -r requirements.txt
 
 Linux:
-pip3 install install -r requirements.txt
+pip3 install install -r requirements.txt && sudo apt-get install python3-tk #you maybe not have tkinter installed if you will have installed already nothing will change 
 ```
 
 # Screenshots
